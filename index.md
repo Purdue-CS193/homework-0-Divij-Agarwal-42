@@ -3,6 +3,8 @@
 Favourite things about CS 193:
 - No exams
 - The TAs seem to be very chill :)
+
+
 ```markdown
 Syntax highlighted code block
 
