@@ -1,8 +1,8 @@
 # Divij Agarwal's First CS193 Homework
 
 Favourite things about CS 193:
--No exams
--The TAs seem to be very chill :)
+- No exams
+- The TAs seem to be very chill :)
 ```markdown
 Syntax highlighted code block
 
